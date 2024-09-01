@@ -24,7 +24,7 @@ This is the `Product Service` application, a Ruby on Rails project designed to m
 Ensure you have the following installed on your machine:
 
 - [Ruby](https://www.ruby-lang.org/en/documentation/installation/) (version 3.0.0 or higher)
-- [Rails](https://guides.rubyonrails.org/getting_started.html#installing-rails) (version 6.0 or higher)
+- [Rails](https://guides.rubyonrails.org/getting_started.html#installing-rails) (version 7.0)
 - [SQLite3](https://www.sqlite.org/download.html)
 
 ### Setup
@@ -172,4 +172,3 @@ If you wish to contribute to this project, please follow these steps:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
