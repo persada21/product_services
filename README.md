@@ -32,8 +32,8 @@ Ensure you have the following installed on your machine:
 Clone the repository:
 
 ```bash
-git clone git@github.com:persada21/product_service.git
-cd product_service
+git clone git@github.com:persada21/product_services.git
+cd product_services
 ```
 
 Install the required gems:
