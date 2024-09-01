@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>Selamat!</h1>
+    <p>Produk Anda "<%= @product.name %>" berhasil di aktivasi.</p>
+    <p>Berikut ini adalah:</p>
+    <ul>
+      <li>Nama Produk: <%= @product.name %></li>
+      <li>Harga: <%= @product.price %></li>
+      <li>Kategori: <%= @product.category %></li>
+          <%= image_tag(@product.image.present? ? @product.image.url : "https://via.placeholder.com/150", alt: @product.name) %>
+      <li>Status Aktif: <%= @product.is_active %></li>
+    </ul>
+    <p>Terima Kasih!</p>
+  </body>
+</html>
