@@ -1,6 +1,4 @@
-Certainly! Here's the updated `README.md` with a section that includes information about using `bundle exec standardrb` to fix linters:
 
-```markdown
 # Product Service
 
 This is the `Product Service` application, a Ruby on Rails project designed to manage product-related operations.
